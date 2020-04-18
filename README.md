@@ -20,7 +20,7 @@ European databases took from [http://www.eurofir.net/eurofir_knowledge/european_
 
 
 ## DBs not fulfilling requirements
-- -Belgium (NIMS)- 
+- -Belgium (NIMS)-
  - closed query page
 - -Finland (Fineli)-
  - closed query page
